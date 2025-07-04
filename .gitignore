@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Uploads & output
+backend/uploads/
+frontend/.next/
+
+# Env
+.env
+.env.*
+
+todo.md
+advance_methods.md
