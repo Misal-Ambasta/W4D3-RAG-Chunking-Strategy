@@ -1,6 +1,6 @@
-# RAG Chunking Strategy Web App
+# Chunking Strategy Web App
 
-A full-stack web application for uploading PDFs and visualizing different chunking strategies for Retrieval-Augmented Generation (RAG) systems.
+A full-stack web application for uploading PDFs and visualizing different text chunking strategies. Use this tool to experiment with and compare chunking methods for downstream NLP or information retrieval tasks.
 
 ---
 
